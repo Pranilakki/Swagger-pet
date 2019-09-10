@@ -1,0 +1,34 @@
+
+  "name": "swagger-editor",
+  "version": "3.6.34",
+  "lockfileVersion": 1,
+  "requires": true,
+  "dependencies": {
+    "@babel/cli": {
+      "version": "7.5.5",
+      "resolved": "https://registry.npmjs.org/@babel/cli/-/cli-7.5.5.tgz",
+      "integrity": "sha512-UHI+7pHv/tk9g6WXQKYz+kmXTI77YtuY3vqC59KIqcoWEjsJJSG6rAxKaLsgj3LDyadsPrCB929gVOKM6Hui0w==",
+      "dev": true,
+      "requires": {
+        "chokidar": "^2.0.4",
+        "commander": "^2.8.1",
+        "convert-source-map": "^1.1.0",
+        "fs-readdir-recursive": "^1.1.0",
+        "glob": "^7.0.0",
+        "lodash": "^4.17.13",
+        "mkdirp": "^0.5.1",
+        "output-file-sync": "^2.0.0",
+        "slash": "^2.0.0",
+        "source-map": "^0.5.0"
+      },
+      "dependencies": {
+        "anymatch": {
+          "version": "2.0.0",
+          "resolved": "https://registry.npmjs.org/anymatch/-/anymatch-2.0.0.tgz",
+          "integrity": "sha512-5teOsQWABXHHBFP9y3skS5P3d/WfWXpv3FUpy+LorMrNYaT9pI4oLMQX7jzQ2KklNpGpWHzdCXTDT2Y3XGlZBw==",
+          "dev": true,
+          "optional": true,
+          "requires": {
+            "micromatch": "^3.1.4",
+            "normalize-path": "^2.1.1"
+          },
